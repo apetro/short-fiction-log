@@ -1,4 +1,5 @@
-Title: Sword and Sorceress
+# Sword and Sorceress
+
 Editor: Marion Zimmer Bradley
 
 In this anthology:

@@ -1,4 +1,4 @@
-Title: The Garnet and the Glory
+# The Garnet and the Glory
 By: [Phyllis Ann Karr][]
 In: Sword and Sorceress
 Read: 2018-07-07

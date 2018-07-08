@@ -5,4 +5,4 @@ Read: 2018-07-07
 
 Sorceress Frostflower and swordswoman Thorn pay a visit to Dowl.
 
-[Phyllis Ann Karr]: ../authors/phyllis-ann-kar.md
+[Phyllis Ann Karr]: ../authors/phyllis-ann-karr.md

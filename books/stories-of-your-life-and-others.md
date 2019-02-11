@@ -1,10 +1,10 @@
-# Short fiction stories
+# Stories of Your Life and Others
 
-## Fantasy
+Author: Ted Chiang
 
-+ [The Garnet and the Glory](the-garnet-and-the-glory.md)
+Finished 2019-02-09
 
-## Science fiction
+In this anthology:
 
 + [Tower of Babylon][]
 + [Understand][]

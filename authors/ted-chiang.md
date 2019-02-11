@@ -1,10 +1,6 @@
-# Short fiction stories
+# Ted Chiang
 
-## Fantasy
-
-+ [The Garnet and the Glory](the-garnet-and-the-glory.md)
-
-## Science fiction
+Stories:
 
 + [Tower of Babylon][]
 + [Understand][]
